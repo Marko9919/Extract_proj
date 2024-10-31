@@ -12,7 +12,7 @@ Clone the repository
 
 ```bash
 git clone https://github.com/Marko9919/Extract_proj.git
-cd Extracr_proj
+cd Extract_proj
 ```
 
 Setup the environment by executing bash script
