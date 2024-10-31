@@ -12,7 +12,7 @@ Clone the repository
 
 ```bash
 git clone https://github.com/Marko9919/Extract_proj.git
-cd Web-scraping
+cd Extracr_proj
 ```
 
 Setup the environment by executing bash script
@@ -21,8 +21,6 @@ Before running the script ensure that script has permission
 
 ```bash
 chmod 777 env.sh
-```
-```bash
 source env.sh
 ```
 
