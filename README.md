@@ -18,7 +18,7 @@ Check if pip is installed:
 pip --version
 ```
 
-Check is virtual environment is installed:
+Check if virtual environment is installed:
 
 ```bash
 python3 -m venv --help
@@ -26,7 +26,7 @@ python3 -m venv --help
 
 ## Setup instructions
 
-Clone the repository
+Clone the repository:
 
 ```bash
 git clone https://github.com/Marko9919/Extract_proj.git
@@ -35,14 +35,14 @@ cd Extract_proj
 
 Setup the environment by executing bash script
 
-Before running the script ensure that script has permission
+Before running the script ensure that script has permission:
 
 ```bash
 chmod 777 env.sh
 source env.sh
 ```
 
-Running the python extraction script
+Running the python extraction script:
 
 ```bash
 python3 extract.py <website url>
