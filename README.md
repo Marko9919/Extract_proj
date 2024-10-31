@@ -10,29 +10,33 @@ Make sure you have python3.x, virtual environment and pip installed on your syst
 
 Clone the repository
 
-'''bash
-git clone https://github.com/Marko9919/Web-scraping.git
+```bash
+git clone https://github.com/Marko9919/Extract_proj.git
 cd Web-scraping
+```
 
 Setup the environment by executing bash script
 
 Before running the script ensure that script has permission
 
-'''bash
+```bash
 chmod 777 env.sh
-
-'''bash
+```
+```bash
 source env.sh
+```
 
 Running the python extraction script
 
-'''bash
+```bash
 python3 extract.py <website url>
+```
 
 ## Deactivating the Virtual Environment
 
-'''bash
+```bash
 deactivate
+```
 
 
 
