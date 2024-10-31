@@ -1,7 +1,7 @@
 # Extract_proj
 
 ## About a project
-Scrape an html website for its logo text/name and telephone number
+Scrape an html website for logo image URL and phone number.
 
 ## Requirements
 Make sure you have python3.x, virtual environment and pip installed on your system.
